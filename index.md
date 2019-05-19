@@ -1,12 +1,19 @@
 ---
 layout: cv
 title: Yuchen Sun
-email: yuchens0820@outlook.com
 phone: 717-254-7403
+email: yuchens0820@outlook.com
 ---
 
 # Yuchen __Sun__
 
+<!--
+include contact information from the front matter
+Supported arguments:
+    - homepage: url, text
+    - phone
+    - email
+-->
 {% include cv-contact.html %}
 
 ## Education
