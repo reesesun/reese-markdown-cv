@@ -23,7 +23,7 @@ Supported arguments:
 State College, PA
 ```
 - B.S. in Kinesiology
-- GPA: __3.74__
+- GPA: __3.75__
 - Major GPA: __3.70__
 
 ### __Dickinson College__ `Fall 2014 - Spring 2016`
