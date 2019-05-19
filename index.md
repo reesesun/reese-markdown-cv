@@ -1,92 +1,88 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
-email: woden@cs.cmu.edu
-homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+title: Yuchen Sun
+email: yuchens0820@outlook.com
+phone: 717-254-7403
 ---
-# Wode __Ni__
 
-<!--
-include contact information from the front matter
-Supported arguments:
-    - homepage: url, text
-    - phone
-    - email
--->
+# Yuchen __Sun__
+
 {% include cv-contact.html %}
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __Pennsylvania State University__ `Fall 2016 - Spring 2019`
 ```
-Pittsburgh, PA
+State College, PA
 ```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- B.S. in Kinesiology
+- GPA: __3.74__
+- Major GPA: __3.70__
 
-### __Columbia University__ `2016.9 - 2018.5`
-```
-New York, NY
-```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
-
-### __Dickinson College__ `2013.9 - 2016.5`
+### __Dickinson College__ `Fall 2014 - Spring 2016`
 ```
 Carlisle, PA
 ```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
 
-## Publications
+## Honors and Awards
 
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
+- Dean’s list `All Semesters`
+- Penn State Health and Human Development Honor Society `Spring 2017 - current`
 
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+## Professional Experience
 
-## Experience
+### __UPMC Mercy__ `June 2018 - July 2018`
+_Volunteer_
+- Observed PTs performing customized treatments
+- Worked with patients suffering chronic conditions
+- Arranged and managed medical equipments
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
-_Research Assistant_<br>
-__Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
+### __Physical Therapy Department, Fuxin General Hospital of Mining__ `May 2016 - August 2016`
+_Intern_
+- Conduct simple therapy procedures
+- Educate patients in anatomy, pathology, treatment and injury prevention   
+- Document subjective and objective measures and patients process
+- Evaluate and assess patients to restore body functions  
 
-### __Columbia University, Computer Graphics and User Interfaces Lab__ `2017.1 - 2017.5`
-_Research Assistant_<br>
-Worked with prof. Steven Feiner, on __Cyber Affordance Visualization in Augumented Reality__ project. Developed a Microsoft Hololens application that visualizes the Columbia campus in AR environment.
+### __Phoenix Rehabilitation__ `Sep 2017 - Dec 2018`
+_Rehab Aid_
+- Assist disabled patients
+- Assist patients with aquatic therapy exercise 
+- Educate and instruct patients in functional tasks, exercise and safety
+- Provide superlative care in collaboration with other clinical professions
+- Document subjective and objective measures and patients process
 
-### __AsiaInfo__ `2015.6 - 2015.8`
-_Software Engineering Intern_<br>
-Worked on server-side web applications and server deployment tools.
+### __Kline Fitness Center__ `Spring 2015 - Spring 2016`
+_Gym assistant_
+- Prevent dangerous use of gym equipments
+- Arrange, clean, and manage the fitness center daily
+- Guide and train students with exercise programs
+- Train and advise new employees
 
+## Research Experience
 
-## Teaching
+### __The Biomechanics Laboratory__ `May 2017 - July 2017`
+_Research Assistant_
+- Measure and recreate human body movement using 3D model
+- Analysis motion data captured from athletes by running Visual 3D
 
-Teaching Assistant, __Programming Languages and Translators (COMS 4115)__ `Columbia, 2017 - 2018` <br>
-Teaching Assistant, __Introduction to Java II (COMP 132)__ `Dickinson, 2016` <br>
-Peer Tutor, __Data Structures and Problem Solving (COMP 232)__ `Dickinson, 2016` <br>
-Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
+### __Laboratory for Comparative Morphology and Mechanics__ `Feb 2018 - current`
+_Research Assistant_
+- Investigate clinical cases on abnormal morphology of human wrist
 
+## Certifications
+__CPR/AED for Health Professionals__
 
-## Honors & Awards
+## Skills
 
-Phi Beta Kappa `Dickinson, 2018` <br>
-Excellence in Computer Science Award `Columbia, 2018` <br>
-Tau Beta Pi, Engineering Honor Society `Columbia, 2017` <br>
-Computer Science Departmental Honors `Dickinson, 2016` <br>
-Pi Mu Epsilon, Mathematics Honor Society `Dickinson, 2016` <br>
-Upsilon Pi Epsilon, Computer Science Honor Society  `Dickinson, 2016` <br>
-Alpha Lambda Delta, First year Honor Society `Dickinson, 2013`<br>
-John Montgomery Scholarship `Dickinson, 2013` <br>
+- Microsoft Office / Apple iWork
+- Java programming
+- Visual 3D
 
-<!-- ### Footer
+## References
 
-Last updated: May 2013 -->
+__John Challis, Ph.D.__: _Research Advisor_  (jhc10@psu.edu)
+
+__Robert B. Eckhardt, Ph.D.__: _Research Advisor_   (eyl@psu.edu)
+
+__Carly Onkotz Wheaton, PT, DPT__: _Facility Supervisor_   (cwheaton@phoenixrehab.com)
