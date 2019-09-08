@@ -113,9 +113,9 @@ _Research Assistant_
 
 ## References
 
-**Carly O. Wheaton, PT, DPT**: _Facility Supervisor_ (cwheaton@phoenixrehab.com)
-
 **Brian S. Caricato PT, DPT, MS, OCS, FAAOMPT**: _Facility Director - Allison Park_ (caricatobs@upmc.edu)
+
+**Carly O. Wheaton, PT, DPT**: _Facility Supervisor_ (cwheaton@phoenixrehab.com)
 
 **John Challis, Ph.D.**: _Research Advisor_ (jhc10@psu.edu)
 
