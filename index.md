@@ -5,7 +5,7 @@ phone: 717-254-7403
 email: yuchens0820@outlook.com
 ---
 
-# Yuchen __Sun__
+# Yuchen **Sun**
 
 <!--
 include contact information from the front matter
@@ -14,19 +14,23 @@ Supported arguments:
     - phone
     - email
 -->
+
 {% include cv-contact.html %}
 
 ## Education
 
-### __Pennsylvania State University__ `Fall 2016 - Spring 2019`
+### **Pennsylvania State University** `Fall 2016 - Spring 2019`
+
 ```
 State College, PA
 ```
-- B.S. in Kinesiology
-- GPA: __3.75__
-- Major GPA: __3.70__
 
-### __Dickinson College__ `Fall 2014 - Spring 2016`
+- B.S. in Kinesiology
+- GPA: **3.75**
+- Major GPA: **3.70**
+
+### **Dickinson College** `Fall 2014 - Spring 2016`
+
 ```
 Carlisle, PA
 ```
@@ -34,33 +38,49 @@ Carlisle, PA
 ## Honors and Awards
 
 - Dean’s list `All Semesters`
-- Penn State Health and Human Development Honor Society `Spring 2017 - current`
+- Penn State Health and Human Development Honor Society `Spring 2017 - 2019`
 
 ## Professional Experience
 
-### __UPMC Mercy__ `June 2018 - July 2018`
-_Volunteer_
-- Observed PTs performing customized treatments
-- Worked with patients suffering chronic conditions
-- Arranged and managed medical equipments
+### **UPMC Centers for Rehab services - Allison Park** `Sep 2017 - Dec 2018`
 
-### __Physical Therapy Department, Fuxin General Hospital of Mining__ `May 2016 - August 2016`
-_Intern_
-- Conduct simple therapy procedures
-- Educate patients in anatomy, pathology, treatment and injury prevention   
-- Document subjective and objective measures and patients process
-- Evaluate and assess patients to restore body functions  
-
-### __Phoenix Rehabilitation__ `Sep 2017 - Dec 2018`
 _Rehab Aid_
+
+- Assists in the provision of patient care under the direct supervision of the licensed clinical staff
+- Provides both clinical and clerical support as required by the facility
+- Assist in the training of therapy volunteers
+
+### **Phoenix Rehabilitation and Health Services - State College** `Sep 2017 - Dec 2018`
+
+_Rehab Aid_
+
 - Assist disabled patients
-- Assist patients with aquatic therapy exercise 
+- Assist patients with aquatic therapy exercise
 - Educate and instruct patients in functional tasks, exercise and safety
 - Provide superlative care in collaboration with other clinical professions
 - Document subjective and objective measures and patients process
 
-### __Kline Fitness Center__ `Spring 2015 - Spring 2016`
+### **UPMC Mercy** `June 2018 - July 2018`
+
+_Volunteer_
+
+- Observed PTs performing customized treatments
+- Worked with patients suffering chronic conditions
+- Arranged and managed medical equipments
+
+### **Physical Therapy Department, Fuxin General Hospital of Mining** `May 2016 - August 2016`
+
+_Intern_
+
+- Conduct simple therapy procedures
+- Educate patients in anatomy, pathology, treatment and injury prevention
+- Document subjective and objective measures and patients process
+- Evaluate and assess patients to restore body functions
+
+### **Kline Fitness Center** `Spring 2015 - Spring 2016`
+
 _Gym assistant_
+
 - Prevent dangerous use of gym equipments
 - Arrange, clean, and manage the fitness center daily
 - Guide and train students with exercise programs
@@ -68,17 +88,22 @@ _Gym assistant_
 
 ## Research Experience
 
-### __The Biomechanics Laboratory__ `May 2017 - July 2017`
+### **Laboratory for Comparative Morphology and Mechanics** `Feb 2018 - July 2018`
+
 _Research Assistant_
+
+- Investigate clinical cases on abnormal morphology of human wrist
+
+### **The Biomechanics Laboratory** `May 2017 - July 2017`
+
+_Research Assistant_
+
 - Measure and recreate human body movement using 3D model
 - Analysis motion data captured from athletes by running Visual 3D
 
-### __Laboratory for Comparative Morphology and Mechanics__ `Feb 2018 - current`
-_Research Assistant_
-- Investigate clinical cases on abnormal morphology of human wrist
-
 ## Certifications
-__CPR/AED for Health Professionals__
+
+**CPR/AED for Health Professionals**
 
 ## Skills
 
@@ -88,8 +113,10 @@ __CPR/AED for Health Professionals__
 
 ## References
 
-__John Challis, Ph.D.__: _Research Advisor_  (jhc10@psu.edu)
+**Carly O. Wheaton, PT, DPT**: _Facility Supervisor_ (cwheaton@phoenixrehab.com)
 
-__Robert B. Eckhardt, Ph.D.__: _Research Advisor_   (eyl@psu.edu)
+**Brian S. Caricato PT, DPT, MS, OCS, FAAOMPT**: _Facility Director - Allison Park_ (caricatobs@upmc.edu)
 
-__Carly Onkotz Wheaton, PT, DPT__: _Facility Supervisor_   (cwheaton@phoenixrehab.com)
+**John Challis, Ph.D.**: _Research Advisor_ (jhc10@psu.edu)
+
+**Robert B. Eckhardt, Ph.D.**: _Research Advisor_ (eyl@psu.edu)
