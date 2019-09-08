@@ -46,9 +46,10 @@ Carlisle, PA
 
 _Rehab Aid_
 
-- Assists in the provision of patient care under the direct supervision of the licensed clinical staff
-- Provides both clinical and clerical support as required by the facility
+- Assist in the provision of patient care under the direct supervision of the licensed clinical staff
+- Provide both clinical and clerical support as required by the facility
 - Assist in the training of therapy volunteers
+- Rotate through selected treatment areas when necessary to facilitate organizational needs
 
 ### **Phoenix Rehabilitation and Health Services - State College** `Sep 2017 - Dec 2018`
 
@@ -64,9 +65,9 @@ _Rehab Aid_
 
 _Volunteer_
 
-- Observed PTs performing customized treatments
-- Worked with patients suffering chronic conditions
-- Arranged and managed medical equipments
+- Observe PTs performing customized treatments
+- Work with patients suffering chronic conditions
+- Arrange and managed medical equipments
 
 ### **Physical Therapy Department, Fuxin General Hospital of Mining** `May 2016 - August 2016`
 
