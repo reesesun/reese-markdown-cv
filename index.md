@@ -42,7 +42,7 @@ Carlisle, PA
 
 ## Professional Experience
 
-### **UPMC Centers for Rehab services - Allison Park** `Sep 2017 - Dec 2018`
+### **UPMC Centers for Rehab services - Allison Park** `Sep 2019 - Current`
 
 _Rehab Aid_
 
