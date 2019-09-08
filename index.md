@@ -2,7 +2,7 @@
 layout: cv
 title: Yuchen Sun
 phone: 717-254-7403
-email: yuchens0820@outlook.com
+email: suny6@upmc.edu
 ---
 
 # Yuchen **Sun**
