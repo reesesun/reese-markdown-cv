@@ -27,7 +27,6 @@ State College, PA
 
 - B.S. in Kinesiology
 - GPA: **3.75**
-- Major GPA: **3.70**
 
 ### **Dickinson College** `Fall 2014 - Spring 2016`
 
