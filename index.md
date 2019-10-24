@@ -2,7 +2,7 @@
 layout: cv
 title: Yuchen Sun
 phone: 717-254-7403
-email: suny6@upmc.edu
+email: yuchens0820@outlook.com
 ---
 
 # Yuchen **Sun**
@@ -26,7 +26,7 @@ State College, PA
 ```
 
 - B.S. in Kinesiology
-- GPA: **3.75**
+- GPA: **3.76**
 
 ### **Dickinson College** `Fall 2014 - Spring 2016`
 
