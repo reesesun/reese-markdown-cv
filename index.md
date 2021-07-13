@@ -19,19 +19,18 @@ Supported arguments:
 
 ## Education
 
+### **Northwestern university** `Fall 2020 - Present`
+
+```
+Chicago, IL
+```
+
+- Doctor of Physical Therapy
+
 ### **Pennsylvania State University** `Fall 2016 - Spring 2019`
 
 ```
 State College, PA
-```
-
-- B.S. in Kinesiology
-- GPA: **3.76**
-
-### **Dickinson College** `Fall 2014 - Spring 2016`
-
-```
-Carlisle, PA
 ```
 
 ## Honors and Awards
@@ -76,15 +75,6 @@ _Intern_
 - Educate patients in anatomy, pathology, treatment and injury prevention
 - Document subjective and objective measures and patients process
 - Evaluate and assess patients to restore body functions
-
-### **Kline Fitness Center** `Spring 2015 - Spring 2016`
-
-_Gym assistant_
-
-- Prevent dangerous use of gym equipments
-- Arrange, clean, and manage the fitness center daily
-- Guide and train students with exercise programs
-- Train and advise new employees
 
 ## Research Experience
 
