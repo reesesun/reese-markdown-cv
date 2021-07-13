@@ -19,7 +19,7 @@ Supported arguments:
 
 ## Education
 
-### **Northwestern university** `Fall 2020 - Present`
+### **Northwestern University** `Fall 2020 - Present`
 
 ```
 Chicago, IL
@@ -32,6 +32,7 @@ Chicago, IL
 ```
 State College, PA
 ```
+- B.S. in Kinesiology
 
 ## Honors and Awards
 
