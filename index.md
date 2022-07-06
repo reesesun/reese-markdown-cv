@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Yuchen Sun
+title: Yuchen “Reese" Sun
 phone: 717-254-7403
 email: yuchens0820@outlook.com
 ---
@@ -16,6 +16,10 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
+
+## Objective
+
+- Seeking the Physical Therapist position at Shirley Ryan Ability Lab, where I can grow and help my patient achieve better outcomes.
 
 ## Education
 
@@ -34,48 +38,32 @@ State College, PA
 ```
 - B.S. in Kinesiology
 
-## Honors and Awards
+## Clinical Experience
 
-- Dean’s list `All Semesters`
-- Penn State Health and Human Development Honor Society `Spring 2017 - 2019`
+### **Shirley Ryan AbilityLab - Chicago, IL** `April - June 2022`
 
-## Professional Experience
+- Provided care to patients ranging in age from 21 to 92 with neurologic and pulmonary disorders. 
+- Presented a in-service presentation on Persistent Postural Perceptual Concussion to promote better understanding on different clinical presentation on concussion.
 
-### **UPMC Centers for Rehab services - Allison Park** `Sep 2019 - Current`
+### **Advanced Training & Rehab - St. Louis, MO** `July - Aug 2021`
+- Provided care to patients ranging in age from 16 to 75 with primarily orthopedic disorders. 
 
-_Rehab Aid_
+### **UPMC Centers for Rehab services - Allison Park, PA** `Sep 2019 - March 2020`
 
-- Assist in the provision of patient care under the direct supervision of the licensed clinical staff
-- Provide both clinical and clerical support as required by the facility
-- Assist in the training of therapy volunteers
-- Rotate through selected treatment areas when necessary to facilitate organizational needs
+- Assisted in the provision of patient care under the direct supervision of the licensed clinical staff.
+- Provided both clinical and clerical support as required by the facility.
+- Assisted in the training of therapy volunteers
+- Rotated through selected treatment areas when necessary to facilitate organizational needs.
 
-### **Phoenix Rehabilitation and Health Services - State College** `Sep 2017 - Dec 2018`
+### **Phoenix Rehabilitation and Health Services - State College, PA** `Sep 2017 - Dec 2018`
 
-_Rehab Aid_
+- Assisted and provided exercise instruction to patients with primarily orthopedic disorders both overground and aquatic. 
+- Provided superlative care in collaboration with other clinical professions including PTAs and chiropractors. 
 
-- Assist disabled patients
-- Assist patients with aquatic therapy exercise
-- Educate and instruct patients in functional tasks, exercise and safety
-- Provide superlative care in collaboration with other clinical professions
-- Document subjective and objective measures and patients process
+### **UPMC Mercy - Pittsburgh, PA** `June 2018 - July 2018`
 
-### **UPMC Mercy** `June 2018 - July 2018`
-
-_Volunteer_
-
-- Observe PTs performing customized treatments
-- Work with patients suffering chronic conditions
-- Arrange and managed medical equipments
-
-### **Physical Therapy Department, Fuxin General Hospital of Mining** `May 2016 - August 2016`
-
-_Intern_
-
-- Conduct simple therapy procedures
-- Educate patients in anatomy, pathology, treatment and injury prevention
-- Document subjective and objective measures and patients process
-- Evaluate and assess patients to restore body functions
+- Observed and assisted PTs providing care to patients with primarily acute and chronic conditions in inpatient setting. 
+- Arranged and managed medical equipments. 
 
 ## Research Experience
 
