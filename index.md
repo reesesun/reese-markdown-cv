@@ -65,37 +65,16 @@ State College, PA
 - Observed and assisted PTs providing care to patients with primarily acute and chronic conditions in inpatient setting. 
 - Arranged and managed medical equipments. 
 
-## Research Experience
+## Memberships & Activites
 
-### **Laboratory for Comparative Morphology and Mechanics** `Feb 2018 - July 2018`
-
-_Research Assistant_
-
-- Investigate clinical cases on abnormal morphology of human wrist
-
-### **The Biomechanics Laboratory** `May 2017 - July 2017`
-
-_Research Assistant_
-
-- Measure and recreate human body movement using 3D model
-- Analysis motion data captured from athletes by running Visual 3D
+- American Physical Therapy Association
+- Illinois Physical Therapy Association
+- Combined Sections Meeting 2022 - San Antonio, TX
 
 ## Certifications
 
-**CPR/AED for Health Professionals**
+**CPR certification, State of Illinois**
 
 ## Skills
 
-- Microsoft Office / Apple iWork
-- Java programming
-- Visual 3D
-
-## References
-
-**Brian S. Caricato PT, DPT, MS, OCS, FAAOMPT**: _Facility Director - Allison Park_ (caricatobs@upmc.edu)
-
-**Carly O. Wheaton, PT, DPT**: _Facility Supervisor_ (cwheaton@phoenixrehab.com)
-
-**John Challis, Ph.D.**: _Research Advisor_ (jhc10@psu.edu)
-
-**Robert B. Eckhardt, Ph.D.**: _Research Advisor_ (eyl@psu.edu)
+- Native proficiency in English and Chinese 
