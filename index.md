@@ -74,7 +74,7 @@ State College, PA
 - Measured and recreated human body movement using  3D model.
 - Analysed motion data captured from athletes by running Visual 3D. 
 
-### **Patient-reported Outcome of Shoulder Ability in STroke Survey (POSTS) `Aug 2020 - March 2022`
+### **Patient reported Outcome of Shoulder Ability in STroke Survey (POSTS) `Aug 2020 - March 2022`
 - Developed and validated a survey that understands patients' perception of shoulder dysfunction and factors contributing to shoulder dysfunction after stroke. 
 
 ## Memberships & Activites
