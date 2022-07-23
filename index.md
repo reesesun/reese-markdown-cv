@@ -70,7 +70,7 @@ State College, PA
 ### **Laboratory for Comparative Morphology and Mechanics** `Feb - July 2018` 
 - Investigated clinical cases on abnormal morphology of human wrist. 
 
-### **The Biomechanics Laboratory** `Feb - July 2018`
+### **The Biomechanics Laboratory** `May - July 2017`
 - Measured and recreated human body movement using  3D model.
 - Analysed motion data captured from athletes by running Visual 3D. 
 
