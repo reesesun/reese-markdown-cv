@@ -63,7 +63,19 @@ State College, PA
 ### **UPMC Mercy - Pittsburgh, PA** `June 2018 - July 2018`
 
 - Observed and assisted PTs providing care to patients with primarily acute and chronic conditions in inpatient setting. 
-- Arranged and managed medical equipments. 
+- Arranged and managed medical equipments. \
+
+## Research
+
+### **Laboratory for Comparative Morphology and Mechanics** `Feb - July 2018` 
+- Investigated clinical cases on abnormal morphology of human wrist. 
+
+### **The Biomechanics Laboratory** `Feb - July 2018`
+- Measured and recreated human body movement using  3D model.
+- Analysed motion data captured from athletes by running Visual 3D. 
+
+### **Patient-reported Outcome of Shoulder Ability in STroke Survey (POSTS)
+- Developed and validated a survey that understands patients' perception of shoulder dysfunction and factors contributing to shoulder dysfunction after stroke. 
 
 ## Memberships & Activites
 
