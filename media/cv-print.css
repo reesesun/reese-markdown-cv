@@ -76,7 +76,7 @@ em {
 h1 {
 	font-family: "Avenir Next",sans-serif;
 	text-align: center;
-	font-size: 50pt;
+	font-size: 40pt;
 	font-weight: lighter;
 	position: relative;
 	line-height: 1.2em;
@@ -87,6 +87,10 @@ h1 {
 h1 strong {
 	font-weight: normal !important;
 	line-height: 1em;
+}
+
+h1 + p {
+	text-align: center;
 }
 
 /* Section headers */
@@ -109,21 +113,17 @@ h2:after {
   flex: 1
 }
 
-h3 strong {
-	/* line-height: 2.5em; */
-}
-
 h3 {
 	margin-top: 10px;
+	font-weight: bold;
 }
 
-
-code {
+h3 > code {
 	font-family: "Palatino";
 	font-style: italic;
+	font-weight: normal;
 	float: right;
 }
-
 
 li:before {
 	content: "-";
@@ -151,7 +151,7 @@ li {
 }
 
 @media print {
-    p {page-break-inside: avoid;}
+   p {page-break-inside: avoid;}
 	h2 {page-break-after: avoid;}
 	h3 {page-break-after: avoid;}
 }

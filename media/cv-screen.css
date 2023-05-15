@@ -77,7 +77,7 @@ h1 {
 	font-family: "Avenir Next",sans-serif;
 	text-align: center;
 	/* font-size: 50pt; */
-	font-size: 600%;
+	font-size: 500%;
 	font-weight: lighter;
 	position: relative;
 	line-height: 1.2em;
@@ -111,21 +111,17 @@ h2:after {
   flex: 1
 }
 
-h3 strong {
-	/* line-height: 2.5em; */
-}
-
 h3 {
 	margin-top: 10px;
+	font-weight: bold;
 }
 
-
-code {
+h3 > code {
 	font-family: "Palatino";
 	font-style: italic;
+	font-weight: normal;
 	float: right;
 }
-
 
 li:before {
 	content: "-";
@@ -144,7 +140,7 @@ li {
 	text-align: center;
 	position: relative;
 	font-weight: lighter;
-	color: #ccc;
+	color: #949494;
 	/* font-family: Menlo,monospace,sans-serif; */
 	font-size: 80%;
 }
