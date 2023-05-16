@@ -42,7 +42,7 @@ Supported arguments:
 
 - Conducted an average of 11 treatment sessions per day independently under the supervision of licensed physical therapists.
 - Evaluated and provided discharge recommendations for a variety of diagnoses including orthopedic injuries (e.g., fractures, joint replacements), neurological disorders (e.g., stroke, spinal cord injuries), cardiopulmonary conditions (e.g., COPD, IPF, CHF), musculoskeletal disorders (e.g., arthritis, back pain), amputations, and traumatic injuries for veterans with complex clinical presentations, such as polytrauma, traumatic brain injuries, post-traumatic stress disorder, and combat-related injuries.
-- Served as the primary physical therapist for outpatient pulmonary clinic to implement evidence-based therapeutic interventions and conducted patient education sessions to promote self-management.
+- Served as the primary physical therapist for outpatient pulmonary clinic every Monday to implement evidence-based therapeutic interventions and conduct patient education sessions to promote self-management.
 - Collaborated with interdisciplinary healthcare teams including physicians, occupational therapist, social worker, and nurse to ensure coordinated and comprehensive veteran care.
 - Assisted in the application and fitting of assistive devices and orthotics, to optimize veterans' mobility and independence.
 - Presented a in-service: Recommendation for Hospital-Based Physical Therapists Managing Patients with COVID-19. 
