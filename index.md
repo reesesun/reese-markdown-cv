@@ -19,7 +19,7 @@ Supported arguments:
 
 ## Objective
 
-- Seeking the Physical Therapist position at Shirley Ryan Ability Lab, where I can grow and help my patient achieve better outcomes.
+
 
 ## Education
 
@@ -40,7 +40,7 @@ Supported arguments:
 ### Pittsburgh VA Medical Center - Inpatient Acute / Outpatient Pulmonary Mixed`Jan - March 2023`
 *Pittsburgh, PA* 
 
-- Conducted on average 11+ treatment sessions per day independently under the supervision of licensed physical therapists.
+- Conducted an average of 11 treatment sessions per day independently under the supervision of licensed physical therapists.
 - Evaluated and provided discharge recommendations for a variety of diagnoses including orthopedic injuries (e.g., fractures, joint replacements), neurological disorders (e.g., stroke, spinal cord injuries), cardiopulmonary conditions (e.g., COPD, IPF, CHF), musculoskeletal disorders (e.g., arthritis, back pain), amputations, and traumatic injuries. 
 - Collaborated with licensed physical therapists in the evaluation, assessment, and development of treatment plans for veterans with complex clinical presentations, such as polytrauma, traumatic brain injuries (TBI), post-traumatic stress disorder (PTSD), and combat-related injuries.
 - Collaborated with interdisciplinary healthcare teams including physicians, occupational therapist, social worker, and nurse to ensure coordinated and comprehensive veteran care.
