@@ -17,9 +17,6 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Objective
-
-
 
 ## Education
 
