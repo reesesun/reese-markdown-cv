@@ -23,30 +23,47 @@ Supported arguments:
 
 ## Education
 
-### **Northwestern University** `Fall 2020 - Present`
+### **Northwestern University** `Fall 2020 - April 2023`
 
 *Chicago, IL*
 
-- Doctor of Physical Therapy
+- Doctorate of Physical Therapy
 
 ### **Pennsylvania State University** `Fall 2016 - Spring 2019`
 
 *State College, PA*
 
-- B.S. in Kinesiology
+- Bachelor of Science, Kinesiology
 
 ## Clinical Experience
 
-### Student Physical Theraphist, OP Neuro `April - June 2022`
-*Shirley Ryan AbilityLab - Chicago, IL* 
+### Pittsburgh VA Medical Center - Inpatient Acute / Outpatient Pulmonary Mixed`Jan - March 2023`
+*Pittsburgh, PA* 
+
+- Evaluated and provided discharge recommendations independently for a variety of veteran diagnoses including orthopedic injuries (e.g., fractures, joint replacements), neurological disorders (e.g., stroke, spinal cord injuries), cardiopulmonary conditions (e.g., COPD, IPF, CHF), musculoskeletal disorders (e.g., arthritis, back pain), amputations, and traumatic injuries. 
+- Collaborated with licensed physical therapists in the evaluation, assessment, and development of treatment plans for veterans with complex clinical presentations, such as polytrauma, traumatic brain injuries (TBI), post-traumatic stress disorder (PTSD), and combat-related injuries.
+- Collaborated with interdisciplinary healthcare teams including physicians, occupational therapist, social workers, nurse to ensure coordinated and comprehensive veteran care.
+- Assisted in the application and fitting of assistive devices, such as walkers, canes, and orthotics, to optimize veterans' mobility and independence.
+- Presented a in-service: Recommendation for Hospital-Based Physical Therapists Managing Patients with COVID-19. 
+
+### Millennium Wellness Group - Outpatient Ortho `Sep - Dec 2022`
+*Chicago, IL* 
 
 - Provided care to patients ranging in age from 21 to 92 with neurologic and pulmonary disorders. 
 - Presented a in-service presentation on Persistent Postural Perceptual Concussion to promote better understanding on different clinical presentation on concussion.
 
-### `July - Aug 2021`
-*Advanced Training & Rehab - St. Louis, MO*
+### Shirley Ryan AbilityLab, Outpatient Neuro and Pulmonary Mixed `April - June 2022`
+*Chicago, IL* 
+
+- Provided care to patients ranging in age from 21 to 92 with neurologic and pulmonary disorders. 
+- Presented a in-service presentation on Persistent Postural Perceptual Concussion to promote better understanding on different clinical presentation on concussion.
+
+### Advanced Training & Rehab, Outpatient Ortho `July - Aug 2021`
+*St. Louis, MO*
 
 - Provided care to patients ranging in age from 16 to 75 with primarily orthopedic disorders. 
+
+## Work Experience
 
 ### `Sep 2019 - March 2020`
 *UPMC Centers for Rehab services - Allison Park, PA* 
@@ -55,6 +72,8 @@ Supported arguments:
 - Provided both clinical and clerical support as required by the facility.
 - Assisted in the training of therapy volunteers
 - Rotated through selected treatment areas when necessary to facilitate organizational needs.
+
+## Volunteer Experience
 
 ### `Sep 2017 - Dec 2018`
 *Phoenix Rehabilitation and Health Services - State College, PA*
