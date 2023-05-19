@@ -99,14 +99,13 @@ Supported arguments:
 
 ## Research Experience
 
-### Northwestern Synthesis Research
-**Patient-reported Outcome of Shoulder Ability in STroke Survey (POSTS)** `Aug 2020 - March 2022`
+### **Patient-reported Outcome of Shoulder Ability in STroke Survey (POSTS)** `Northwestern, 2020-2022`
 - Developed and validated a survey that understands patients' perception of shoulder dysfunction and factors contributing to shoulder dysfunction after stroke. 
 
-### **Laboratory for Comparative Morphology and Mechanics** `Feb - July 2018` 
+### **Laboratory for Comparative Morphology and Mechanics** `PSU, 2018` 
 - Investigated clinical cases on abnormal morphology of human wrist. 
 
-### **The Biomechanics Laboratory** `May - July 2017`
+### **The Biomechanics Laboratory** `PSU, 2017`
 - Measured and recreated human body movement using  3D model.
 - Analysed motion data captured from athletes by running Visual 3D. 
 
