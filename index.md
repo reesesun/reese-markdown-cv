@@ -101,6 +101,7 @@ Supported arguments:
 
 ### **Patient-reported Outcome of Shoulder Ability in STroke Survey (POSTS)** `Northwestern, 2020-2022`
 - Developed and validated a survey that understands patients' perception of shoulder dysfunction and factors contributing to shoulder dysfunction after stroke. 
+- Presented at Combined Sections Meeting 2023 in San Diego, CA.
 
 ### **Laboratory for Comparative Morphology and Mechanics** `PSU, 2018` 
 - Investigated clinical cases on abnormal morphology of human wrist. 
@@ -110,9 +111,10 @@ Supported arguments:
 - Analysed motion data captured from athletes by running Visual 3D. 
 
 
-## Certifications
+## Licensure and Certifications
 
-**CPR certification, State of Illinois**
+- Licensed Doctor of Physical Therapy 
+- Adult and Pediatric First Aid/CPR/AED Certification
 
 ## Skills
 
