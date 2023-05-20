@@ -20,7 +20,7 @@ Supported arguments:
 
 ## Education
 
-### **Northwestern University** `Fall 2020 - April 2023`
+### **Northwestern University** `Fall 2020 - Spring 2023`
 
 *Chicago, IL*
 
