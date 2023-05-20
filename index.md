@@ -56,16 +56,16 @@ Supported arguments:
 ### Shirley Ryan AbilityLab - Outpatient Neuro and Pulmonary Mixed `April - June 2022`
 *Chicago, IL* 
 
-- Conducted thorough functional assessments and outcome measures to determine baseline abilities, impairments, and functional goals on patients spanning an age range of 15 to 92 years with stroke, traumatic brain injury, spinal cord injury, multiple sclerosis, vertigo, Parkinson's disease, and amputation.
-- Supported patients in improving motor control, balance, coordination, gait, strength, and overall functional independence utilizing cutting-edge technologies such as robotic-assisted devices and virtual reality systems. 
-- Provided direct patient care and independently performed evaluation, treatment, and rehabilitation of individuals with pulmonary conditions. 
+- Conducted thorough functional assessments and outcome measures to determine baseline abilities, impairments, and functional goals on patients from 15 to 92 years with stroke, traumatic brain injury, spinal cord injury, multiple sclerosis, vertigo, Parkinson's disease, and amputation.
+- Improved patients' motor control, balance, coordination, gait, strength, and overall functional independence with cutting-edge technologies, e.g. robotic-assisted devices and virtual reality systems. 
+- Provided direct patient care and independently performed evaluation and treatment of patients with pulmonary conditions. 
 - Presented an in-service: Diagnosis Criterion and Treatment of Persistent Postural Perceptual Concussion.
 
 ### Advanced Training & Rehab - Outpatient Ortho `July - Aug 2021`
 *St. Louis, MO*
 
-- Evaluated individuals recovering from orthopedic surgeries and sports-related injuries of patients across the age spectrum.
-- Conducted comprehensive movement analysis assessments to evaluate biomechanics, identify movement impairments, and develop targeted treatment plans. 
+- Evaluated patients from 14 to 75 years old recovering from orthopedic surgeries and sports-related injuries.
+- Conducted comprehensive movement analysis assessments to develop treatment plans. 
 - Presented an in-service: Strategies for Achilles Tendon Repair Rehabilitation and Return to Play. 
 
 ## Work Experience
