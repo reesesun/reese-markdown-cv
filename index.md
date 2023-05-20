@@ -37,20 +37,20 @@ Supported arguments:
 ### Pittsburgh VA Medical Center - Inpatient Acute / Outpatient Pulmonary Mixed`Jan - March 2023`
 *Pittsburgh, PA* 
 
-- Conducted an average of 11 treatment sessions per day independently under the supervision of licensed physical therapists.
-- Evaluated and provided discharge recommendations for a variety of diagnoses including orthopedic injuries, neurological disorders, cardiopulmonary conditions, musculoskeletal disorders, amputations, and traumatic injuries for veterans with complex clinical presentations, such as polytrauma, traumatic brain injuries, post-traumatic stress disorder, and combat-related injuries.
+- Independently conducted an average of 11 treatment sessions per day in ICU, PACU, MICU, and general floor.
+- Evaluated veterans with complex clinical presentations, such as polytrauma, post-traumatic stress disorder, and combat-related injuries. Provided discharge recommendations for a variety of diagnoses including orthopedic injuries, neurological disorders, cardiopulmonary conditions, amputations, and cancer.
 - Served as the primary physical therapist for outpatient pulmonary clinic to implement evidence-based therapeutic interventions and conduct patient education sessions to promote self-management.
-- Collaborated with interdisciplinary healthcare teams including physicians, occupational therapist, social worker, and nurse to ensure comprehensive veteran care.
+- Collaborated with physicians, occupational therapist, social worker, and nurse to ensure comprehensive veteran care.
 - Assisted in the application and fitting of assistive devices and orthotics to optimize veterans' mobility and independence.
 - Presented an in-service: Recommendation for Hospital-Based Physical Therapists Managing Patients with COVID-19. 
 
 ### Millennium Wellness Group - Outpatient Ortho `Sep - Dec 2022`
 *Chicago, IL* 
 
-- Independently evaluated and treated pre- and post-operative hip/knee replacements, rotator cuff repairs, ACL reconstructions, Achilles tendon repair, meniscus repair, ankle fusion, and proximal hamstring avulsion repair. 
+- Independently evaluated and treated pre- and post-operative tendon repairs and joint reconstructions. 
 - Independently assessed and treated chronic conditions including plantar fasciitis, Morton's neuroma, osteoarthritis, adhesive capsulitis, low back pain, and cervical radiculopathy.
-- Collaborated with chiropractors and massage therapists to deliver a holistic treatment.
-- Utilized myofascial release, ultrasound, traction, low-level laser therapy, and kinesiotaping to address patients' specific needs and goals and optimize patient outcomes.
+- Collaborated with chiropractors and massage therapists to deliver holistic treatments.
+- Utilized myofascial release, ultrasound, traction, low-level laser therapy, and kinesiotaping to address patients' specific needs.
 - Participated in community outreach initiatives with local physician's offices and healthcare providers to promote the clinic's services and generate referrals.
 
 ### Shirley Ryan AbilityLab - Outpatient Neuro and Pulmonary Mixed `April - June 2022`
