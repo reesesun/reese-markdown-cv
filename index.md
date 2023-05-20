@@ -68,6 +68,8 @@ Supported arguments:
 - Conducted comprehensive movement analysis assessments to develop treatment plans. 
 - Presented an in-service: Strategies for Achilles Tendon Repair Rehabilitation and Return to Play. 
 
+<br/>
+
 ## Work Experience
 
 ### UPMC Centers for Rehab services - Rehabilitation Technician `Sep 2019 - April 2020`
@@ -109,7 +111,6 @@ Supported arguments:
 ### **The Biomechanics Laboratory** `PSU, 2017`
 - Measured and recreated human body movement using 3D modeling.
 - Analysed motion data captured from athletes in Visual 3D. 
-
 
 ## Licensure and Certifications
 

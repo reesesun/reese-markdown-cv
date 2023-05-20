@@ -51,7 +51,7 @@ table {
 
 body {
 	font: normal normal 400;
-	font-size: 11pt;
+	font-size: 9.4pt;
 	line-height: 1.5em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	font-family: "Helvetica",sans-serif;
@@ -154,4 +154,14 @@ li {
    p {page-break-inside: avoid;}
 	h2 {page-break-after: avoid;}
 	h3 {page-break-after: avoid;}
+}
+
+
+@media print {
+  hr {
+    page-break-after: always; /* CSS 2 */
+    /* minimal layout disruption: */
+    height: 0.1mm;
+    visibility: hidden;
+  }
 }
