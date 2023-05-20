@@ -73,7 +73,7 @@ Supported arguments:
 ### UPMC Centers for Rehab services - Rehabilitation Technician `Sep 2019 - April 2020`
 *Allison Park, PA* 
 
-- Demonstrated flexibility and adaptability by regularly floating to various branches within the Pittsburgh area to provide coverage and support as needed.
+- Rotated among branches within the greater Pittsburgh area.
 - Facilitated patient care by preparing treatment areas, organizing equipment, and ensuring a clean and safe environment for therapy sessions.
 - Provided both clinical and clerical support as required by the facility.
 
@@ -82,40 +82,40 @@ Supported arguments:
 ### Arfit Dog Rehab & Fitness `Jun 2022 - Aug 2022`
 *Chicago, IL*
 
-- Contributed to the development of engaging and informative content for social media campaign. 
+- Contributed to the development of the facility's social media campaign. 
 - Assised in the rehabilitation of canines including stretching, walking, climbing, and balance exercises. 
 
 ### Phoenix Rehabilitation and Health Services `Sep 2017 - Dec 2018`
 *State College, PA*
 
-- Assisted and provided exercise instruction to patients with primarily orthopedic disorders both overground and aquatic. 
+- Assisted in overground and aquatic exercise instruction to patients with primarily orthopedic conditions. 
 - Provided superlative care in collaboration with other clinical professions including PTAs and chiropractors. 
 
 ### UPMC Mercy `June 2018 - July 2018`
 *Pittsburgh, PA* 
 
-- Observed and assisted provided assistance to physical therapists in delivering patient care in inpatient neuro setting. 
-- Assisted in the preparation and organization of equipment and maintained a clean and safe environment.
+- Observed and assisted physical therapists in delivering patient care in inpatient neuro setting. 
+- Prepared and organized of equipment and maintained a clean and safe environment.
 
 ## Research Experience
 
 ### **Patient-reported Outcome of Shoulder Ability in STroke Survey (POSTS)** `Northwestern, 2020-2022`
-- Developed and validated a survey that understands patients' perception of shoulder dysfunction and factors contributing to shoulder dysfunction after stroke. 
+- Developed and validated a survey on patients' perception of shoulder dysfunction and contributing factors to shoulder dysfunction after stroke. 
 - Presented at Combined Sections Meeting 2023 in San Diego, CA.
 
 ### **Laboratory for Comparative Morphology and Mechanics** `PSU, 2018` 
 - Investigated clinical cases on abnormal morphology of human wrist. 
 
 ### **The Biomechanics Laboratory** `PSU, 2017`
-- Measured and recreated human body movement using  3D model.
-- Analysed motion data captured from athletes by running Visual 3D. 
+- Measured and recreated human body movement using 3D modeling.
+- Analysed motion data captured from athletes in Visual 3D. 
 
 
 ## Licensure and Certifications
 
-- Licensed Doctor of Physical Therapy 
-- Adult and Pediatric First Aid/CPR/AED Certification
+- Licensed Doctor of Physical Therapy (April 2023)
+- Adult and Pediatric First Aid/CPR/AED Certification 
 
 ## Skills
 
-- Native proficiency in English and Chinese 
+- Native proficiency in English and Mandarin 
