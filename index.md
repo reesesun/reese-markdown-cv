@@ -40,7 +40,7 @@ Supported arguments:
 - Independently conducted an average of 11 treatment sessions per day in ICU, PACU, MICU, and general floor.
 - Evaluated veterans with complex clinical presentations, such as polytrauma, post-traumatic stress disorder, and combat-related injuries. Provided discharge recommendations for a variety of diagnoses including orthopedic injuries, neurological disorders, cardiopulmonary conditions, amputations, and cancer.
 - Served as the primary physical therapist for outpatient pulmonary clinic to implement evidence-based therapeutic interventions and conduct patient education sessions to promote self-management.
-- Collaborated with physicians, occupational therapist, social worker, and nurse to ensure comprehensive veteran care.
+- Collaborated with physicians, occupational therapists, social workers, and nurses to ensure comprehensive veteran care.
 - Assisted in the application and fitting of assistive devices and orthotics to optimize veterans' mobility and independence.
 - Presented an in-service: Recommendation for Hospital-Based Physical Therapists Managing Patients with COVID-19. 
 
@@ -72,8 +72,8 @@ Supported arguments:
 
 ## Work Experience
 
-### UPMC Centers for Rehab services - Rehabilitation Technician `Sep 2019 - April 2020`
-*Allison Park, PA* 
+### UPMC Centers for Rehab Services - Rehabilitation Technician `Sep 2019 - April 2020`
+*Pittsburgh, PA* 
 
 - Rotated among branches within the greater Pittsburgh area.
 - Facilitated patient care by preparing treatment areas, organizing equipment, and ensuring a clean and safe environment for therapy sessions.
@@ -85,19 +85,19 @@ Supported arguments:
 *Chicago, IL*
 
 - Contributed to the development of the facility's social media campaign. 
-- Assised in the rehabilitation of canines including stretching, walking, climbing, and balance exercises. 
+- Assisted in the rehabilitation of canines including stretching, walking, climbing, and balance exercises. 
 
 ### Phoenix Rehabilitation and Health Services `Sep 2017 - Dec 2018`
 *State College, PA*
 
 - Assisted in overground and aquatic exercise instruction to patients with primarily orthopedic conditions. 
-- Provided superlative care in collaboration with other clinical professions including PTAs and chiropractors. 
+- Provided superlative care in collaboration with other clinical professionals including PTAs and chiropractors. 
 
 ### UPMC Mercy `June 2018 - July 2018`
 *Pittsburgh, PA* 
 
 - Observed and assisted physical therapists in delivering patient care in inpatient neuro setting. 
-- Prepared and organized of equipment and maintained a clean and safe environment.
+- Prepared and organized equipment and maintained a clean and safe environment.
 
 ## Research Experience
 
@@ -106,11 +106,11 @@ Supported arguments:
 - Presented at Combined Sections Meeting 2023 in San Diego, CA.
 
 ### **Laboratory for Comparative Morphology and Mechanics** `PSU, 2018` 
-- Investigated clinical cases on abnormal morphology of human wrist. 
+- Investigated clinical cases of abnormal morphology of the human wrist. 
 
 ### **The Biomechanics Laboratory** `PSU, 2017`
 - Measured and recreated human body movement using 3D modeling.
-- Analysed motion data captured from athletes in Visual 3D. 
+- Analyzed motion data captured from athletes in Visual 3D. 
 
 ## Licensure and Certifications
 
