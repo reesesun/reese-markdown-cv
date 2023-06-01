@@ -115,7 +115,7 @@ Supported arguments:
 ## Licensure and Certifications
 
 - Licensed Doctor of Physical Therapy (April 2023)
-- Adult and Pediatric First Aid/CPR/AED Certification 
+- Basic Life Support Healthcare Provider (BLS)
 
 ## Skills
 
