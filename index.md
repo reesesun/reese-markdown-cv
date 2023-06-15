@@ -119,4 +119,6 @@ Supported arguments:
 
 ## Skills
 
-- Native proficiency in English and Mandarin 
+- Native proficiency in English and Mandarin
+- Epic
+- WebPT
