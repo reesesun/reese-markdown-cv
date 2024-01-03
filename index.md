@@ -32,6 +32,21 @@ Supported arguments:
 
 - Bachelor of Science, Kinesiology
 
+## Work Experience
+
+### Montefiore Medical Center - Physical Therapist `Aug 2023 - Current`
+*Bronx, NY*
+
+- Provides physical therapy to patients to improve mobility, relieve pain, or help to restore function.
+- Evaluates patients, assesses equipment, and develops treatment plans and programs.
+  
+### UPMC Centers for Rehab Services - Rehabilitation Technician `Sep 2019 - April 2020`
+*Pittsburgh, PA* 
+
+- Rotated among branches within the greater Pittsburgh area.
+- Facilitated patient care by preparing treatment areas, organizing equipment, and ensuring a clean and safe environment for therapy sessions.
+- Provided both clinical and clerical support as required by the facility.
+  
 ## Clinical Experience
 
 ### Pittsburgh VA Medical Center - Inpatient Acute / Outpatient Pulmonary Mixed`Jan - March 2023`
@@ -69,15 +84,6 @@ Supported arguments:
 - Presented an in-service: Strategies for Achilles Tendon Repair Rehabilitation and Return to Play. 
 
 <br/>
-
-## Work Experience
-
-### UPMC Centers for Rehab Services - Rehabilitation Technician `Sep 2019 - April 2020`
-*Pittsburgh, PA* 
-
-- Rotated among branches within the greater Pittsburgh area.
-- Facilitated patient care by preparing treatment areas, organizing equipment, and ensuring a clean and safe environment for therapy sessions.
-- Provided both clinical and clerical support as required by the facility.
 
 ## Volunteer Experience
 
