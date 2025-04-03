@@ -47,17 +47,6 @@ Supported arguments:
 - Facilitated patient care by preparing treatment areas, organizing equipment, and ensuring a clean and safe environment for therapy sessions.
 - Provided both clinical and clerical support as required by the facility.
   
-## Clinical Experience
-
-### Pittsburgh VA Medical Center - Inpatient Acute / Outpatient Pulmonary Mixed`Jan - March 2023`
-*Pittsburgh, PA* 
-
-- Independently conducted an average of 11 treatment sessions per day in ICU, PACU, MICU, and general floor.
-- Evaluated veterans with complex clinical presentations, such as polytrauma, post-traumatic stress disorder, and combat-related injuries. Provided discharge recommendations for a variety of diagnoses including orthopedic injuries, neurological disorders, cardiopulmonary conditions, amputations, and cancer.
-- Served as the primary physical therapist for outpatient pulmonary clinic to implement evidence-based therapeutic interventions and conduct patient education sessions to promote self-management.
-- Collaborated with physicians, occupational therapists, social workers, and nurses to ensure comprehensive veteran care.
-- Assisted in the application and fitting of assistive devices and orthotics to optimize veterans' mobility and independence.
-- Presented an in-service: Recommendation for Hospital-Based Physical Therapists Managing Patients with COVID-19. 
 
 ### Millennium Wellness Group - Outpatient Ortho `Sep - Dec 2022`
 *Chicago, IL* 
