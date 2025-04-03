@@ -47,6 +47,7 @@ Supported arguments:
 - Facilitated patient care by preparing treatment areas, organizing equipment, and ensuring a clean and safe environment for therapy sessions.
 - Provided both clinical and clerical support as required by the facility.
   
+## Clinical Experience
 
 ### Millennium Wellness Group - Outpatient Ortho `Sep - Dec 2022`
 *Chicago, IL* 
@@ -88,11 +89,6 @@ Supported arguments:
 - Assisted in overground and aquatic exercise instruction to patients with primarily orthopedic conditions. 
 - Provided superlative care in collaboration with other clinical professionals including PTAs and chiropractors. 
 
-### UPMC Mercy `June 2018 - July 2018`
-*Pittsburgh, PA* 
-
-- Observed and assisted physical therapists in delivering patient care in inpatient neuro setting. 
-- Prepared and organized equipment and maintained a clean and safe environment.
 
 ## Research Experience
 
